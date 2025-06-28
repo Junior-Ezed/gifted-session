@@ -65,7 +65,7 @@ router.get("/", async (req, res) => {
             await fs.mkdir(authDir, { recursive: true });
         }
 
-        async function GIFTED_QR_CODE() {
+        async function PRINCE_JUNIOR_V2_QR_CODE() {
             const { state, saveCreds } = await useMultiFileAuthState(authDir);
             const msgRetryCounterCache = new NodeCache();
 
@@ -110,18 +110,18 @@ router.get("/", async (req, res) => {
 *✅ SESSION ID GENERATED ✅*
 ______________________________
 ╔════◇
-║『 𝐘𝐎𝐔'𝐕𝐄 𝐂𝐇𝐎𝐒𝐄𝐍 𝐆𝐈𝐅𝐓𝐄𝐃 𝐌𝐃 』
+║『 𝐘𝐎𝐔'𝐕𝐄 𝐂𝐇𝐎𝐒𝐄𝐍 𝐏𝐑𝐈𝐍𝐂𝐄 𝐉𝐔𝐍𝐈𝐎𝐑 𝐕𝟐 』
 ╚══════════════╝
 ╔═════◇
 ║ 『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ 𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥: _youtube.com/@giftedtechnexus_
-║❒ 𝐎𝐰𝐧𝐞𝐫: _https://t.me/mouricedevs_
-║❒ 𝐑𝐞𝐩𝐨: _https://github.com/mauricegift/gifted-md_
+║❒ 𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥: _youtube.com/@gifttechnexus_
+║❒ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/254723245807
+║❒ 𝐑𝐞𝐩𝐨: _https://github.com/Junior-Ezed/PRINCE-JUNIOR-V2-
 ║❒ 𝐕𝐚𝐥𝐢𝐝𝐚𝐭𝐨𝐫: _https://pairing.giftedtech.web.id/validate_
-║❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029Vb3hlgX5kg7G0nFggl0Y_
+║❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029Vb5U5AI3wtb8r6Gbex2p
 ║ 💜💜💜
 ╚══════════════╝ 
-𝗚𝗜𝗙𝗧𝗘𝗗-𝗠𝗗 𝗩𝗘𝗥𝗦𝗜𝗢𝗡 5.𝟬.𝟬
+𝗣𝗥𝗜𝗡𝗖𝗘 𝗝𝗨𝗡𝗜𝗢𝗥 𝗩𝟮 𝗩𝗘𝗥𝗦𝗜𝗢𝗡 𝟮.𝟬.𝟬
 ______________________________
 
 Use the Quoted Session ID to Deploy your Bot

@@ -12,7 +12,7 @@ router.post('/', async (req, res) => {
     }
 
     try {
-        if (!sessionId.startsWith('PRINCE JUNIOR V2~')) {
+        if (!sessionId.startsWith('PRINCEJUNIORV2~')) {
             return res.status(400).json({ 
                 valid: false,
                 error: 'Invalid Session ID format: Must start with "PRINCE JUNIOR V2~"'
